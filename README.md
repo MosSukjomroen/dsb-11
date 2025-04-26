@@ -7,12 +7,13 @@ Topics
 - Google Sheet
 - R Programming
 - SQL
+- Python
 
 ``Hello World``
 
 ## Code Block
 ```sql
-select "Hello World" from DSB boothcamp
+select "Hello World" from DSB boothcamp;
 
 ```
 
